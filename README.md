@@ -1,3 +1,7 @@
+---
+
+## Features
+
 - Semantic vector search
 - AI memory storage
 - PDF ingestion and chunking
@@ -6,3 +10,5 @@
 - PostgreSQL + pgvector integration
 - Streamlit frontend
 - FastAPI backend
+- Embedding-based retrieval
+- Similarity scoring

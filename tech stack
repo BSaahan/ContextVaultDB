@@ -1,0 +1,14 @@
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|------|------|
+| Backend | FastAPI |
+| Database | PostgreSQL + pgvector |
+| Embeddings | Sentence Transformers |
+| LLM | OpenAI GPT |
+| Frontend | Streamlit |
+| ORM | SQLAlchemy |
+| Language | Python |
+| Deployment | Docker-ready |

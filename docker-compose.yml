@@ -1,0 +1,15 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: contextvaultdb_postgres
+    environment:
+      POSTGRES_USER: contextvault
+      POSTGRES_PASSWORD: contextvault123
+      POSTGRES_DB: contextvaultdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - contextvaultdb_data:/var/lib/postgresql/data
+
+volumes:
+  contextvaultdb_data:

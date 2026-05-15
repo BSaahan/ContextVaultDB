@@ -1,0 +1,8 @@
+- Semantic vector search
+- AI memory storage
+- PDF ingestion and chunking
+- Conversational RAG pipeline
+- OpenAI-powered contextual chat
+- PostgreSQL + pgvector integration
+- Streamlit frontend
+- FastAPI backend

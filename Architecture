@@ -1,0 +1,13 @@
+User
+ ↓
+Streamlit Frontend
+ ↓
+FastAPI Backend
+ ↓
+Embedding Engine
+ ↓
+PostgreSQL + pgvector
+ ↓
+Semantic Retrieval
+ ↓
+OpenAI Response Generation
